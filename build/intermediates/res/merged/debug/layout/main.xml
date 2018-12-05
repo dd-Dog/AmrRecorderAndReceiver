@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:layout_height="wrap_content" android:id="@+id/textView2"
+		android:layout_width="wrap_content" android:text="编码器"
+		android:textAppearance="?android:attr/textAppearanceMedium"></TextView>
+	<Button android:text="开始编码" android:id="@+id/startEncode"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+	<Button android:text="停止编码" android:id="@+id/stopEncode"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+	<TextView android:layout_height="wrap_content" android:id="@+id/textView1"
+		android:layout_width="wrap_content" android:text="播放器"
+		android:textAppearance="?android:attr/textAppearanceMedium"></TextView>
+	<Button android:text="开始播放" android:id="@+id/startPlay"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+	<Button android:text="停止播放" android:id="@+id/stopPlay"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+</LinearLayout>

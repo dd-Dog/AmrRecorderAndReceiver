@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Application1\\amrEncoderAndPlayer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "G:\\Application1\\amrEncoderAndPlayer\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "135,55",
+                        "endColumns": "60,79",
+                        "endOffsets": "191,130"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endColumns": "60,79",
+                        "endOffsets": "111,191"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\Application1\\amrEncoderAndPlayer\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+            "map": [
+                {
+                    "source": "G:\\Application1\\amrEncoderAndPlayer\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "135,55",
+                        "endColumns": "60,79",
+                        "endOffsets": "191,130"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endColumns": "60,79",
+                        "endOffsets": "111,191"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "26.0.2"
 
     defaultConfig {
-        applicationId "cn.edu.xmu.zgy"
+        applicationId "com.dddog"
         minSdkVersion 8
         targetSdkVersion 8
     }
